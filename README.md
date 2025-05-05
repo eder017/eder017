@@ -1,4 +1,4 @@
-## Olá 👋 Eu sou Eder Henrique
+## Olá 👋 Eu sou Eder Henrique eder017
 
 sou estudante de desenvolvimento de sistema, meu objetivo e aprender e aprimorar mais nessa area 
 
@@ -20,8 +20,8 @@ Por onde eu já passei!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuasarJ03131806&show_icons=true&theme=tokyonight&hide_title=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuasarJ03131806&layout=compact&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=eder017&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eder017&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Linguagens e Tecnologias
